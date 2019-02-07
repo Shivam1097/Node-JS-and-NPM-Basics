@@ -1,0 +1,22 @@
+
+
+To install a NPM package , Just type ->
+
+
+ ===================================
+|    npm install <package_name>     |
+ ===================================
+
+
+
+To include it in your Project ->
+
+
+ ================================================
+|    var package=require("<package_name>");      |
+ ================================================
+
+
+
+Now call the method as defined in docs.
+Eg: package();
