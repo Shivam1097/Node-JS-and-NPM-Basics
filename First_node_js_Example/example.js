@@ -2,7 +2,7 @@
 // Just type 'node <filename.js>' in the terminal and hit enter to execute the the node app.
 
 
-// Average function example
+// Average function example->
 function avg(arr){
     var sum=0;
     arr.forEach(function (arr){
