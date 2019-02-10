@@ -8,6 +8,8 @@ var cats=require("cat-me");
 console.log(cats()); 
 // It will print a random cat to console.
 
+// A random Output ->
+
 
 //  /\     /\
 // {  `---'  }
